@@ -11,7 +11,7 @@ Primo tra tutti è stato utilizzato il tag table per la realizzazioni di 2 diver
 I tag ul e ol sono stati rispettivamente utilizzati invece per poter realizzare gli elenchi puntati ed ordinati presenti nel corpo della pagina. 
 
 ## img con href esterno
-Nella sezione finale denominata "Le foto" sono state invece aggiunte due foto con l'ausiolo di un ancoraggio esterno tramite i link forniti dal docente.
+Nella sezione finale denominata "Le foto" sono state invece aggiunte due foto con l'ausilio di un ancoraggio esterno tramite i link forniti dal docente.
 
 ## License
 
